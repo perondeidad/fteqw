@@ -1,10 +1,12 @@
+Antes de Compilar el motor, checa primero si tiene la librerias necesaria para compilarlo en esta pagina https://developer.vera-visions.com/d1/d47/md_Documentation_Building.html
+
 Yay, you found out the secrit location to download the sauce code from!
 
 Right, urm, now what?
 Yeah, good question.
 
 Urm.
-
+ 
 
 
 Quick start guide:
