@@ -1,4 +1,4 @@
-Antes de Compilar el motor, checa primero si tiene la librerias necesaria para compilarlo en esta pagina https://developer.vera-visions.com/d1/d47/md_Documentation_Building.html
+Antes de Compilar el motor, checa primero si tienes las librerias necesaria para compilarlo en la pagina de nuclide-SDK https://developer.vera-visions.com/d1/d47/md_Documentation_Building.html
 
 Yay, you found out the secrit location to download the sauce code from!
 
